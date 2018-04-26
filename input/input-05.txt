@@ -1,0 +1,9 @@
+abc
+aac
+acc
+a-c
+some characters a c some more characters
+a  c shouldn't match
+fjd948900vafda4c4bnaije
+a1c a2c a3c three occurrences, but just printed once
+kjvl;jiwibnmbzhihifjeklmklb

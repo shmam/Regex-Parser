@@ -1,0 +1,8 @@
+abc
+a line with abc in the middle
+abc at the start
+at the end, you gessed it, abc
+nothing to match here.
+aaabcccc
+a b c
+aabbcc

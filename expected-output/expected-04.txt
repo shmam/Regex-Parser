@@ -1,0 +1,5 @@
+[31mabc[0m
+a line with [31mabc[0m in the middle
+[31mabc[0m at the start
+at the end, you gessed it, [31mabc[0m
+aa[31mabc[0mccc

@@ -1,0 +1,8 @@
+[31mabc[0m
+[31maac[0m
+[31macc[0m
+[31ma-c[0m
+some characters [31ma c[0m some more characters
+a  c shouldn't m[31matc[0mh
+fjd948900vafd[31ma4c[0m4bnaije
+[31ma1c[0m [31ma2c[0m [31ma3c[0m three occurrences, but just printed once

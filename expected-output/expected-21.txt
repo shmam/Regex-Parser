@@ -1,0 +1,2 @@
+[31mthis[0m line is fine
+but, [31mthat[0m next line is too long

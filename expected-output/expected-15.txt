@@ -1,0 +1,4 @@
+[31mYour license has been revoked![0m
+[31mYour application has been accepted![0m
+[31mYour program has been tested![0m
+[31mYour program has been revoked![0m

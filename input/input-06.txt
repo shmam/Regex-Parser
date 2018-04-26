@@ -1,0 +1,7 @@
+abc
+ac
+abbc
+a--c
+abcc
+text a  c more text
+12345 a   c abcde

@@ -1,0 +1,4 @@
+[31mabcd[0m
+[31mad[0m [31mabcd[0mefghijk bcdefg
+[31mabcbcbcbcd[0m
+xyz [31mabcd[0m 123
